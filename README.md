@@ -2,7 +2,7 @@
 
 > Git Commit Message Guidelines
 
-We have rules over how our git commit messages can be formatted. This leads to **more**
+Rules over how git commit messages can be formatted. This leads to **more**
 **readable messages **that are easy to follow when looking through the** project history**.  But also,
 it makes it easier to **write automated tools** on top of it like **generating the change log**.
 # #Commit Message Format
